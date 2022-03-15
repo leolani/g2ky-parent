@@ -1,15 +1,16 @@
 SHELL = /bin/bash
 
-project_name ?= "cltl-eliza"
+project_name ?= "cltl-g2ky"
 
 project_components = $(addprefix ${project_root}/, \
 		emissor \
 		cltl-requirements \
 		cltl-combot \
 		cltl-backend \
-		cltl-eliza-app \
-		cltl-eliza \
+		cltl-g2ky-app \
+		cltl-g2ky \
 		cltl-chat-ui \
+		cltl-face-recognition \
 		cltl-vad \
                 cltl-asr)
 
