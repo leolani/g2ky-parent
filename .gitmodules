@@ -1,36 +1,48 @@
 [submodule "cltl-requirements"]
 	path = cltl-requirements
 	url = https://github.com/leolani/cltl-requirements.git
+	branch = main
 [submodule "cltl-combot"]
 	path = cltl-combot
 	url = https://github.com/leolani/cltl-combot.git
+	branch = main
 [submodule "cltl-backend"]
 	path = cltl-backend
 	url = https://github.com/leolani/cltl-backend.git
+	branch = main
 [submodule "cltl-asr"]
 	path = cltl-asr
 	url = https://github.com/leolani/cltl-asr.git
+	branch = main
 [submodule "cltl-vad"]
 	path = cltl-vad
 	url = https://github.com/leolani/cltl-vad.git
+	branch = main
 [submodule "cltl-chat-ui"]
 	path = cltl-chat-ui
 	url = https://github.com/leolani/cltl-chat-ui.git
+	branch = main
 [submodule "util"]
 	path = util
 	url = https://github.com/leolani/cltl-build.git
+	branch = main
 [submodule "cltl-backend-naoqi"]
 	path = cltl-backend-naoqi
 	url = https://github.com/leolani/cltl-backend-naoqi.git
+	branch = main
 [submodule "emissor"]
 	path = emissor
 	url = https://github.com/leolani/emissor.git
+	branch = main
 [submodule "cltl-g2ky-app"]
 	path = cltl-g2ky-app
 	url = https://github.com/leolani/cltl-g2ky-app.git
+	branch = main
 [submodule "cltl-g2ky"]
 	path = cltl-g2ky
 	url = https://github.com/leolani/cltl-g2ky.git
+	branch = main
 [submodule "cltl-face-recognition"]
 	path = cltl-face-recognition
 	url = https://github.com/leolani/cltl-face-recognition.git
+	branch = main
